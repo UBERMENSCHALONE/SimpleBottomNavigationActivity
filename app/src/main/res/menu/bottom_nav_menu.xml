@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_1"
+        android:icon="@drawable/icon_site"
+        android:title="@string/navigation_tab_1" />
+    <item
+        android:id="@+id/tab_2"
+        android:icon="@drawable/icon_data"
+        android:title="@string/navigation_tab_2" />
+    <item
+        android:id="@+id/tab_3"
+        android:icon="@drawable/icon_list"
+        android:title="@string/navigation_tab_3" />
+    <item
+        android:id="@+id/tab_4"
+        android:icon="@drawable/icon_gift"
+        android:title="@string/navigation_tab_4" />
+    <item
+        android:id="@+id/tab_5"
+        android:icon="@drawable/icon_profile"
+        android:title="@string/navigation_tab_5" />
+</menu>

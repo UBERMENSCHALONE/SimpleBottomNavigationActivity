@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation</string>
+
+    <string name="navigation_tab_1">Tab 1</string>
+    <string name="navigation_tab_2">Tab 2</string>
+    <string name="navigation_tab_3">Tab 3</string>
+    <string name="navigation_tab_4">Tab 4</string>
+    <string name="navigation_tab_5">Tab 5</string>
+
+</resources>
